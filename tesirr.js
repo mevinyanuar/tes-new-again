@@ -1,5 +1,5 @@
 let nama = 'David'
-let peran = 'Penyihirs'
+let peran = 'Penyihir'
 
 let sentence = peran === 'Ksatria' ? `Selamat datang di Dunia Proxytia, ${nama}, 
 Halo ${peran} ${nama}, kamu dapat menyerang dengan senjatamu!` : peran === 'Tabib' ? `Selamat datang di Dunia Proxytia, ${nama}, 
